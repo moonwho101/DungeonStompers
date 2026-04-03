@@ -25,6 +25,7 @@ This repository preserves the original source code exactly as distributed, as a 
 
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Gameplay](#gameplay)
 - [Character System](#character-system)
@@ -33,6 +34,16 @@ This repository preserves the original source code exactly as distributed, as a 
 - [Running the Game](#running-the-game)
 - [Historical Context](#historical-context)
 - [Credits](#credits)
+
+---
+
+## Screenshots
+
+![Screenshot 1](STOMP/screenshot01.jpg)
+![Screenshot 2](STOMP/screenshot02.jpg)
+![Screenshot 3](STOMP/screenshot03.jpg)
+![Screenshot 4](STOMP/screenshot04.jpg)
+![Screenshot 5](STOMP/screenshot05.jpg)
 
 ---
 
