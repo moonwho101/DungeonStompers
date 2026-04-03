@@ -187,13 +187,9 @@ Dungeon Stompers requires a **DOS environment** and a BASIC runtime. The most pr
    MOUNT C C:\path\to\DungeonStompers\STOMP
    C:
    ```
-3. Start GW-BASIC or QuickBASIC:
+3. Start Dungeon Stomp:
    ```
-   GWBASIC LOGON.BAS
-   ```
-   or with QuickBASIC:
-   ```
-   QB LOGON.BAS
+   LOGON.EXE
    ```
 4. For local (non-modem) play, set baud to `0` in `BAUD.DAT` — this chains to `LOCAL.BAS`
 
