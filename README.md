@@ -19,6 +19,8 @@ Dungeon Stompers is a real-time, multiplayer dungeon-crawl **BBS door game** dev
 
 This repository preserves the original source code exactly as distributed, as a piece of early online gaming history.
 
+> **Original documentation:** [DS.DOC](STOMP/DS.DOC) is the original Version 1.02 manual dated **April 24, 1989**. It covers installation, system requirements, BBS door setup, multi-node operation, events, editor and map tools, and the full file reference.
+
 ---
 
 ## Table of Contents
